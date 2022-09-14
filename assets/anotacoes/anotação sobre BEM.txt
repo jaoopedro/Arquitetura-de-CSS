@@ -1,0 +1,7 @@
+BEM (Metodologia especifica para a nomeclatura de Class)
+
+Block Element Modifier
+
+Bloco elemento Modificador 
+
+Pelas boas praticas os nomes de modificadores (Class) e recomenddo ter dois uderline ("__")

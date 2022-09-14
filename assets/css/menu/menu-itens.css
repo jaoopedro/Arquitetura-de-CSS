@@ -1,0 +1,8 @@
+.menu__itens{
+    list-style: none;
+}
+
+/*Seletor last-child usamos para selecionar a ultima tag filha*/
+.menu__itens:last-child a{
+    margin-right: 0;
+}
